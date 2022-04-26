@@ -1,4 +1,4 @@
-package com.projects.demopagingapp.ui.theme
+package com.projects.demopagingapp.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
